@@ -13,7 +13,7 @@ p {
 }
 
 .catsandstars {
-  background-image:  url("https://mdn.mozillademos.org/files/11991/startransparent.gif"), 
-                     url("https://mdn.mozillademos.org/files/7693/catfront.png");
+  background-image:  url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg'); 
+                    url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg');
   background-color: transparent;
 }
