@@ -1,19 +1,29 @@
 pre, p {
-    font-size: 1.5em;
-    color: #FE7F88;
-    background-color: transparent;
+   background-color: transparent;
+   color:#ffffff;
+   font-size:14px; 
+   text-align: center;
+   margin-left:auto;
+   margin-right:auto;
 }
 
 div {
   background-image: url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg');
+   color:#ffffff;
+   font-size:14px; 
+   text-align: center;
+   margin-left:auto;
+   margin-right:auto;
 }
 
-p {
-  background-image: none;
-}
+
 
 .catsandstars {
   background-image:  url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg'); 
-                    url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg');
   background-color: transparent;
+   color:#ffffff;
+   font-size:14px; 
+   text-align: center;
+   margin-left:auto;
+   margin-right:auto;
 }
