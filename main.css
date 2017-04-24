@@ -1,5 +1,4 @@
-pre, p {
-   background-color: transparent;
+b {
    color:#ffffff;
    font-size:14px; 
    text-align: center;
@@ -7,8 +6,7 @@ pre, p {
    margin-right:auto;
 }
 
-div {
-  background-image: url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg');
+h1 {
    color:#ffffff;
    font-size:14px; 
    text-align: center;
@@ -18,9 +16,7 @@ div {
 
 
 
-.catsandstars {
-  background-image:  url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg'); 
-  background-color: transparent;
+p {
    color:#ffffff;
    font-size:14px; 
    text-align: center;
