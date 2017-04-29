@@ -21,11 +21,11 @@ var fecha= new Date(),
        pYear= document.getElementById('year');
 
 
-       var semana= ['Domingo', 'Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo'];
+       var semana= ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
        pDiaSemana.textContent = semana[diaSemana];
        pDia.textContent = dia;
 
-       var meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre','Octubre', 'Noviembre', 'Diciembre'];
+       var meses = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September','October', 'November', 'December'];
        pMes.textContent = meses [mes];
 
        pYear.textContent = year;
