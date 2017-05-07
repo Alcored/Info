@@ -14,9 +14,14 @@ body {
       font-size: 16px;
 }
 
+.container {
+width=100%;
+max-width:1000px;     
+
+}
 .wrap {
 width: 90%;
-max-width: 1000px;
+Box-sizing:border-box;      
 }
 
 .widget{
