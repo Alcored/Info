@@ -12,6 +12,7 @@ body {
       background-size:cover;
       color:#fff;
       font-size: 16px;
+      Box-sizing:border-box;  
 }
 
 .container {
