@@ -57,6 +57,7 @@ background: rgba(0, 0, 0, 0.5);
 
 .reloj .caja-segundos {
 display: inline-block;
+Box-sizing:border-box;  
 }
 
 
@@ -64,6 +65,7 @@ display: inline-block;
 .reloj .ampm {
        font-size:2rem;
        display: block;
+     
 
 
 }
