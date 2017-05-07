@@ -2,7 +2,6 @@
 margin:0;
 padding:0;
 -webkit-box-sizing:border-box;
--moz-box-sizing: border-box;
 
 
 }
@@ -59,7 +58,7 @@ background: rgba(0, 0, 0, 0.5);
 
 .reloj .caja-segundos {
 display: inline-block;
-Box-sizing:border-box;  
+ 
 }
 
 
