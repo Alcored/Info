@@ -11,14 +11,15 @@ body {
       background-size:cover;
       color:#fff;
       font-size: 16px;
-       
+      box-sizing:border-box;
+      
 }
 
 .container{
 
       width="100%";
       max-width:1000px;
-
+      box-sizing:border-box;
 }
 
 .wrap {
