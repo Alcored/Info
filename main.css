@@ -23,12 +23,12 @@ body {
 }
 
 .wrap {
-width: 40%;
+width:55%;
 Box-sizing:border-box;      
 }
 
 .widget{
-width:90%;
+width:40%;
 margin: 2em;
 }
 
