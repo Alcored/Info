@@ -11,7 +11,8 @@ body {
       background-size:cover;
       color:#fff;
       font-size: 16px;
-      box-sizing:border-box;
+      margin:2em;
+     
       
 }
 
@@ -19,12 +20,12 @@ body {
 
       width="100%";
       max-width:1000px;
-      box-sizing:border-box;
+      
 }
 
 .wrap{
 width:90%;
-Box-sizing:border-box;      
+    
 }
 
 .widget{
