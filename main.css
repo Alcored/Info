@@ -8,8 +8,10 @@ padding:0;
 
 body {
       background:url(https://www.imageupload.co.uk/images/2017/05/10/teatro.jpg);
-      background-size:cover;
-      background-repeat: no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
       color:#fff;
       font-size: 16px;
    
